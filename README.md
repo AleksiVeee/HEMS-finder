@@ -37,3 +37,7 @@ and after that other HEMS that may support fewer choises.
 **Other**
 - Figma
 - Docker
+
+## Preview Video
+
+[![Watch the video](https://raw.githubusercontent.com/AleksiVeee/HEMS-finder/main/Screenshots/EnerWeave_homepage.png)](https://raw.githubusercontent.com/AleksiVeee/HEMS-finder/main/Screenshots/HEMS_finder_preview.mp4)
