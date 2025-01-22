@@ -40,4 +40,5 @@ and after that other HEMS that may support fewer choises.
 
 ## Preview Video
 
-[![Watch the video](https://img.youtu.be/-3vzGO17r70/0.jpg)](https://youtu.be/-3vzGO17r70)
+[![Video Title](https://img.youtube.com/vi/-3vzGO17r70/maxresdefault.jpg)](https://www.youtube.com/watch?v=-3vzGO17r70)
+
