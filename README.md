@@ -42,7 +42,7 @@ and after that other HEMS that may support fewer choises.
 
 https://youtu.be/-3vzGO17r70
 
-##My Contribution
+##My Contribution##
 
 My part on this project was to design and develop parts of the frontend and UI. Design prototype was created with Figma. 
 I developed homepage, instructions page, parts of hardware selection page and parts of support page. Technologies I used were React and SCSS.
