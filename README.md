@@ -40,4 +40,4 @@ and after that other HEMS that may support fewer choises.
 
 ## Preview Video
 
-[![Watch the video](https://raw.githubusercontent.com/AleksiVeee/HEMS-finder/main/Screenshots/EnerWeave_homepage.png)](https://raw.githubusercontent.com/AleksiVeee/HEMS-finder/main/Screenshots/HEMS_finder_preview.mp4)
+[![Watch the video](https://img.youtu.be/-3vzGO17r70/0.jpg)](https://youtu.be/-3vzGO17r70)
