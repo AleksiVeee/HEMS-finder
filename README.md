@@ -18,22 +18,22 @@ and after that other HEMS that may support fewer choises.
 
 ## Tech, Libraries and Tools
 
-**Backend
+**Backend**
 - Spring Boot(Maven, Java 21)
 
-**Frontend
+**Frontend**
 - React
 - SCSS, Vite, npm
 
-**Database
+**Database**
 - PostreSQL
 
-**Version Control
+**Version Control**
 - Git/GitLab
 
-**Cloud
+**Cloud**
 - AWS (ECR, ECS, EFS)
 
-**Other
+**Other**
 - Figma
 - Docker
