@@ -15,3 +15,25 @@ User can choose aplliances they want from dopdown menus and filter the selection
 
 User sees HEMS recommendations based on their appliance choises. Application shows recommendation, that supports all or as many as possible appliances first 
 and after that other HEMS that may support fewer choises.
+
+## Tech, Libraries and Tools
+
+**Backend
+- Spring Boot(Maven, Java 21)
+
+**Frontend
+- React
+- SCSS, Vite, npm
+
+**Database
+- PostreSQL
+
+**Version Control
+- Git/GitLab
+
+**Cloud
+- AWS (ECR, ECS, EFS)
+
+**Other
+- Figma
+- Docker
