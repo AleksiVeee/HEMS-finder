@@ -42,6 +42,12 @@ and after that other HEMS that may support fewer choises.
 
 https://youtu.be/-3vzGO17r70
 
+## Other
+
+Link to the working app
+
+http://enerweave-510155273.eu-north-1.elb.amazonaws.com/
+
 ## My Contribution
 
 My part on this project was to design and develop parts of the frontend and UI. Design prototype was created with Figma. 
