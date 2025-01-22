@@ -13,7 +13,7 @@ User can choose aplliances they want from dopdown menus and filter the selection
 
 ![Screenshot](Screenshots/EnerWeave_results.png)
 
-User sees HEMS recommendations based on their appliance choises. Application shows recommendation, that supports all or as many as possible appliances first 
+User sees HEMS recommendations based on their appliance choices. Application shows recommendation, that supports all or as many as possible appliances first 
 and after that other HEMS that may support fewer choises.
 
 ## Tech, Libraries and Tools
