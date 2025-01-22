@@ -40,5 +40,9 @@ and after that other HEMS that may support fewer choises.
 
 ## Preview Video
 
-[![Video Title](https://img.youtube.com/vi/-3vzGO17r70/maxresdefault.jpg)](https://www.youtube.com/watch?v=-3vzGO17r70)
+https://youtu.be/-3vzGO17r70
 
+##My Contribution
+
+My part on this project was to design and develop parts of the frontend and UI. Design prototype was created with Figma. 
+I developed homepage, instructions page, parts of hardware selection page and parts of support page. Technologies I used were React and SCSS.
